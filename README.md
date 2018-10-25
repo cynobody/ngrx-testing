@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/blove/ngrx-testing.svg?branch=master)](https://travis-ci.org/blove/ngrx-testing)
-https://brianflove.com/2018/05/28/ngrx-testing-actions/
+
 # NgRx Testing
 
 This project is based on a presentation given at the Rocky Mountain Angular meetup.
